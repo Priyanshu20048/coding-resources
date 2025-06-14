@@ -1,4 +1,4 @@
-# Web Development Skills
+# Web Development Skills 
 
 | **Category**               | **Skill**                                    |
 |----------------------------|---------------------------------------------|
